@@ -30,7 +30,7 @@ void quickSort(int arr[], int i, int j){
 }
 
 void main(){
-    int arr[]={9,8,7,6,5,4,3,2,1};
+    int arr[]={9,8,7,6,5,4,3,2,2,1};
     int i=0;
     int j=sizeof(arr)/sizeof(arr[0]);
     printf("--- BEFORE SORTING ---\n");
